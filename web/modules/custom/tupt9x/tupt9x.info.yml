@@ -1,0 +1,24 @@
+name: TuPT9x
+type: theme
+description: 'TuPT9x Theme'
+core_version_requirement: ^10
+base theme: bootstrap5
+package: Other
+
+libraries:
+  - tupt9x/global-styling
+  - tupt9x/bootstrap_cdn
+
+regions:
+  header_left: 'Header Left'
+  header_right: 'Header Right'
+  slider : 'Slider'
+  slider_top: 'Slider top'
+  breadcrumb: 'Breadcrumb'
+  search: 'Search'
+  slider_bottom: 'Slider bottom'
+  content: 'Content'
+  content_left: "Content left"
+  content_right: "Content right"
+  footer_top: 'Footer top'
+  footer_bottom: 'Footer bottom'
